@@ -1,7 +1,9 @@
-pandas
-numpy
-scikit-learn
-matplotlib
 gymnasium
-stable-baselines3
 ipykernel
+matplotlib
+numpy
+pandas
+pytz
+scikit-learn
+stable-baselines3
+transformers
